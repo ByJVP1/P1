@@ -3,11 +3,8 @@
   "downloads": [
     {
       "title": "FNAF INTO THE PIT | 1.0.7.0",
-      "uris": [
-        "magnet:?xt=urn:btih:2286A21CC92C10194A8885B2B2C65C870AB3068A&dn=Five%20Nights%20at%20Freddys%20Into%20the%20Pit.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"
-      ],
+      "uris": ["magnet:?xt=urn:btih:2286A21CC92C10194A8885B2B2C65C870AB3068A&dn=Five%20Nights%20at%20Freddys%20Into%20the%20Pit.zip&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce"],
       "uploadDate": "2024-10-04T23:00:00.000Z",
-      "fileSize": "988 MB"
-    }
+      "fileSize": "988 MB"}
   ]
 }
